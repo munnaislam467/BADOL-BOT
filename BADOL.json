@@ -7,16 +7,16 @@
   "notification": false,
   "approval": false,
   "saveState": false,
-  "BOTNAME": "𝐁𝟒𝐃𝟗𝐋-𝐁𝟗𝐓___//𝟎𝟎𝟕",
-  "PREFIX": "/",
+  "BOTNAME": "MUNNA-𝐁𝟗𝐓___//𝟎𝟎𝟕",
+  "PREFIX": "$",
   "OPERATOR": [
     "100001381266797"
   ],
   "ADMINBOT": [
-    "100001381266797",
+    "100094625323739",
     ""
   ],
-  "OWNER": ["100001381266797"], 
+  "OWNER": ["100094625323739"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
