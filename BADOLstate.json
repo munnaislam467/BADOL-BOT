@@ -1,3 +1,128 @@
-remove for all text add your fb appstate
-
-bot owner Mohammad Badol Chowdhury 
+[
+    {
+        "key": "dbln",
+        "value": "%7B%22100095322619219%22%3A%22u5N47E4y%22%2C%22100068768381443%22%3A%227hlamEz4%22%2C%22100090984801671%22%3A%22KoIUVkwW%22%2C%2261550228228328%22%3A%22xZyr2XuP%22%2C%22100014015177527%22%3A%22td5hrLAZ%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2024-10-15T13:13:14.219Z",
+        "lastAccessed": "2024-10-15T13:13:14.219Z"
+    },
+    {
+        "key": "datr",
+        "value": "5djbZpcNxHm5UXBsMoZ5dkzW",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-15T13:13:14.219Z",
+        "lastAccessed": "2024-10-15T13:13:14.219Z"
+    },
+    {
+        "key": "sb",
+        "value": "5djbZuMMiDIckx0dpmH-tsVN",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-15T13:13:14.219Z",
+        "lastAccessed": "2024-10-15T13:13:14.219Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-15T13:13:14.219Z",
+        "lastAccessed": "2024-10-15T13:13:14.219Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-15T13:13:14.219Z",
+        "lastAccessed": "2024-10-15T13:13:14.219Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-15T13:13:14.219Z",
+        "lastAccessed": "2024-10-15T13:13:14.219Z"
+    },
+    {
+        "key": "dpr",
+        "value": "1.9612751007080078",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-15T13:13:14.219Z",
+        "lastAccessed": "2024-10-15T13:13:14.219Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100014015177527",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-15T13:13:14.219Z",
+        "lastAccessed": "2024-10-15T13:13:14.219Z"
+    },
+    {
+        "key": "fr",
+        "value": "0CocimPhljSd2xcSe.AWV1un_4ey8EbKYLd8omsttyWic.Bm29jl..AAA.0.0.BnDl2G.AWXGCo2v8ic",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-15T13:13:14.219Z",
+        "lastAccessed": "2024-10-15T13:13:14.219Z"
+    },
+    {
+        "key": "xs",
+        "value": "21%3AHzsFDKaXyHlsyw%3A2%3A1728994696%3A-1%3A5329",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-15T13:13:14.219Z",
+        "lastAccessed": "2024-10-15T13:13:14.219Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B958x491x1.7806248664855957",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-15T13:13:14.219Z",
+        "lastAccessed": "2024-10-15T13:13:14.219Z"
+    },
+    {
+        "key": "wd",
+        "value": "607x1184",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-15T13:13:14.219Z",
+        "lastAccessed": "2024-10-15T13:13:14.219Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101635200%3BT%3A28816633",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-15T13:13:14.219Z",
+        "lastAccessed": "2024-10-15T13:13:14.219Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2648%3Btimestamp%3A1728997985",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-15T13:13:14.219Z",
+        "lastAccessed": "2024-10-15T13:13:14.219Z"
+    }
+]
